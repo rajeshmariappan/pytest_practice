@@ -43,6 +43,8 @@ def test_traverse_list(input_traverse_list):
     for i in input_traverse_list:
         print(i)
 
+# other statements below.
+
 
 terminal_input = test_get_input()
 
